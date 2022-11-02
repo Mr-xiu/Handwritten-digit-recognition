@@ -1,2 +1,3 @@
-# Course-Design-of-Machine-Intelligence
-BUPT机器智能课设
+# BUPT机器智能课设
+2020级人工智能学院
+智科&人工智能
